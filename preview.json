@@ -1,1 +1,32 @@
-{"Parameters":{"SEED":11}}
+{
+  "Parameters": {
+    "BASE_COLOR": {
+      "red": 100.0,
+      "green": 100.0,
+      "blue": 100.0,
+      "alpha": 255.0
+    },
+    "WIDTH": 2000,
+    "STARTING_OFFSET": 0.01,
+    "RED_SHIFT_FACTOR": 3.0,
+    "HEIGHT": 2000,
+    "MARGIN": 100,
+    "COLOR": {
+      "red": 227.0,
+      "green": 229.0,
+      "blue": 225.0,
+      "alpha": 255.0
+    },
+    "SEED": 11,
+    "NUMBER_OF_FRAMES": 200,
+    "APPLIED_COLOR": {
+      "red": 80.0,
+      "green": 90.0,
+      "blue": 100.0,
+      "alpha": 255.0
+    },
+    "OFFSET_FACTOR": 0.2,
+    "NOISE_SCALE": 0.02,
+    "RANGE": 0.15
+  }
+}
